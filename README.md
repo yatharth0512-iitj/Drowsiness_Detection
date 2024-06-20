@@ -19,7 +19,7 @@ It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, A
 
 <img src="https://github.com/yatharth0512-iitj/Real-Time-Drowsiness-Detection-System/blob/main/assets/eye1.jpg">
 
-#### Relationship
+### Relationship
 
 <img src="https://github.com/yatharth0512-iitj/Real-Time-Drowsiness-Detection-System/blob/main/assets/eye2.png">
 
