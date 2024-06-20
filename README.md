@@ -1,7 +1,7 @@
 # Real-Time-Drowsiness-Detection-System
 A Real Time Drowsiness Detection System made using OpenCV. This repository code can detect your eyes and alert when the user is drowsy.
 
-## Applications 
+### Applications 
 This can be used by riders who tend to drive for a longer period of time that may lead to accidents
 
 ### Dependencies
